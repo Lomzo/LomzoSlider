@@ -1,5 +1,5 @@
 /*
-    Lomzo 0.1PA
+    lomzoSlider 0.1PA
     Author: Lomzo
     Website: https://lomzo.github.io/lomzoSlider/
     Code released under the MIT License 
