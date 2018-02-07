@@ -4,7 +4,7 @@ LomzoSlider - is a responsive slideshow plug-in for jQuery with features like to
 ***
 
 ## Links
-- **[Download LomzoSlider][download]** - (ver 0.21PA)
+- **[Download LomzoSlider][download]** - (ver 0.1PA)
 - [Home page](https://lomzo.github.io/lomzoSlider/)
 - [Examples](https://lomzo.github.io/lomzoSlider/manual/)
 - [Demo](https://lomzo.github.io/lomzoSlider/demo/)
