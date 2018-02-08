@@ -1,7 +1,7 @@
 /*
     lomzoSlider 0.1PA
     Author: Lomzo
-    Website: https://lomzo.github.io/lomzoSlider/
+    Website: https://github.com/Lomzo/LomzoSlider
     Code released under the MIT License 
     Docs released under Creative Commons
 */
